@@ -7,7 +7,7 @@
   lg:w-64">
   <figure>
     <img src={pizza[0].imageUrl} alt={pizza[0].imageAlt} />
-    <figcaption class="hidden">pizza[0].imageAlt</figcaption>
+    <figcaption class="hidden">pizzfirea[0].imageAlt</figcaption>
   </figure>
 
   <div class="p-6">
