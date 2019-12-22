@@ -7,6 +7,6 @@
     ],
     "scope": "alantsui4",
     "github": {
-        "autoAlias": false
+        "autoAlias": true
     }
 }
