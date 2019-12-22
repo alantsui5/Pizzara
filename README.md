@@ -1,2 +1,2 @@
 # Svelte Pizarra
-  This is a simple svelte project
+  This is a simple svelte projectxdf
