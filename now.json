@@ -1,9 +1,12 @@
 {
-    "name": "pizzara",
+    "name": "Pizzara",
     "version": 2,
     "alias": [
         "pizzara",
         "pizzara3100"
     ],
-    "scope": "alantsui4"
+    "scope": "alantsui4",
+    "github": {
+        "autoAlias": false
+    }
 }
