@@ -1,7 +1,7 @@
 <script context="module">
   import Nav from "./components/Nav.svelte";
   import Card from "./components/Card.svelte";
-  import Footer from "./components/Footer.svelte";
+  import Footer from "./components/footer.svelte";
 </script>
 
 <svelte:head>
